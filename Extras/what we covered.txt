@@ -1,0 +1,38 @@
+Beginner Topics:
+- What is Javascript? where it runs? Similar to Java?
+- What is Node?
+- What is ECMA script?
+- Console.log --> your best friend
+- debugging javascript? :(
+- How to write helloworld.html and helloworld.html with js
+- type in js (dyanmic typing) numbers, string, boolean, null, undefined
+- variables, comments, for, while, alert, prompt, let vs var, cool lambda functions
+- html and css -> selectors and modfifiers
+
+Meduim topics:
+- functions and classes ? two sides of the same coin?
+- difference between var and let
+- prototypes and dynamic definition on the fly for a single object or for the class.
+- hash map example using objects.
+
+Advanced Topics:
+- Callbacks vs promises, promise.all
+- npm and nod
+- what is typescript.
+- React what is it? why?
+- react components state and props.
+- what is an api and calling API.
+
+
+Example programs ranked in difficulty
+- create a hash map that does freq
+- draw cool particles
+- note taker
+
+Evil area (bonus)
+- cross site scripting attacks
+
+Assignment
+- map api
+- create a map with realtime updates (hint, async-updates or signalR).
+- check dev branch of https://github.com/ealhomsi/ealhomsi.github.io
